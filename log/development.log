@@ -622,3 +622,11 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 16ms (Views: 7.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 50.29.184.218 at 2020-01-14 17:31:04 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.1/gems/railties-5.0.7.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.1/gems/railties-5.0.7.1/lib/rails/templates/rails/welcome/index.html.erb (2.3ms)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
